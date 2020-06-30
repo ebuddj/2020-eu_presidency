@@ -4,7 +4,9 @@
 
 ## EU Presidency
 
-The animation shows how which country has had the EU presidency between 1990 and 2020. Germany will get receive the presidency on 1st July 2020 from Serbia.
+Germany will get receive the presidency on 1st July 2020 from Serbia.
+
+The animation shows how which country has had the EU presidency between 1990 and 2020. At each point of time countries in yellow present the countries part of the EU and the country holding EU presidency is marked in blue. The map shows the current borders for the countries. For example former state of Yugoslavia is therefore shows as separate countries already in 1990.
 
 The presidency of the Council rotates among the EU member states every 6 months. During this 6-month period, the presidency chairs meetings at every level in the Council, helping to ensure the continuity of the EU's work in the Council.
 
