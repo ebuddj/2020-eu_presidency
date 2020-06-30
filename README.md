@@ -4,7 +4,7 @@
 
 ## EU Presidency
 
-Germany will get receive the presidency on 1st July 2020 from Serbia.
+Germany will get receive the presidency on 1st July 2020 from Croatia.
 
 The animation shows which country has had the EU presidency between 1990 and 2020. EU has had presidency since 1958. First country to hold the presidency was Belgium. The presidency rotates within the membership every six months.
 
