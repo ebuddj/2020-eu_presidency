@@ -18,14 +18,23 @@ body {
     margin: auto auto 10px auto;
   }
   .meta_container {
+    margin-top: 10px;
     position: absolute;
     text-align: center;
     width: 100%;
-    margin-top: 10px;
     .year_month,
     .country_name {
+      box-sizing: border-box;
       display: inline-block;
       margin: 0 20px;
+    }
+    .country_name {
+      text-align: right;
+      width: 270px;
+    }
+    .year_month {
+      text-align: left;
+      width: 350px;
     }
   }
   // Map.
