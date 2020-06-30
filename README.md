@@ -23,6 +23,7 @@ The presidency has two main tasks:
 **Sources**
 * [The presidency of the Council of the EU](https://www.consilium.europa.eu/en/council-eu/presidency-council-eu/)
 * [Presidency of the Council of the European Union](https://en.wikipedia.org/wiki/Presidency_of_the_Council_of_the_European_Union)
+* [The 27 member countries of the EU](https://europa.eu/european-union/about-eu/countries_en)
 
 **EBU links**
 * []()
