@@ -18,7 +18,7 @@ The presidency has two main tasks:
 1. Planning and chairing meetings in the Council and its preparatory bodies
 2. Representing the Council in relations with the other EU institutions
 
-Download the EU presidency data.
+[Download the EU presidency data](https://github.com/ebuddj/2020-eu_presidency/blob/master/media/data/data%20-%20data.csv).
 
 **Sources**
 * [The presidency of the Council of the EU](https://www.consilium.europa.eu/en/council-eu/presidency-council-eu/)
