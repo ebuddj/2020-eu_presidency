@@ -91,7 +91,7 @@ class App extends Component {
           }), this.createInterval);
         }, 2000);
       }
-    }, 1000);
+    }, 500);
   }
   changeCountryAttributes() {
     // Change fill color.
@@ -111,7 +111,7 @@ class App extends Component {
         return '#bbb';
       }
       // If exited current year.
-      else if (europeanUnion[country].exit_year === this.state.year && (europeanUnion[country].exit_month === this.state.months.split('–')[0] || europeanUnion[country].exit_month === this.state.months.split('–')[0])) {
+      else if (europeanUnion[country].exit_year === this.state.year && (europeanUnion[country].exit_month === 'January' || europeanUnion[country].exit_month === this.state.months.split('–')[0])) {
         return '#f9f9f9';
       }
       // If entered before.
