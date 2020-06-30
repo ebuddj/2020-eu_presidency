@@ -72,6 +72,7 @@ class App extends Component {
     });
   }
   createInterval() {
+    this.changeCountryAttributes();
     interval = setInterval(() => {
       this.setState((state, props) => ({
         months:this.state.data[this.state.period_idx + 1].Months,
@@ -91,7 +92,7 @@ class App extends Component {
           }), this.createInterval);
         }, 2000);
       }
-    }, 500);
+    }, 1000);
   }
   changeCountryAttributes() {
     // Change fill color.
@@ -108,7 +109,7 @@ class App extends Component {
       }
       // If entered current year.
       else if (europeanUnion[country].enter_year === this.state.year && (europeanUnion[country].enter_month === 'January' || europeanUnion[country].enter_month === this.state.months.split('–')[0])) {
-        return '#bbb';
+        return '#ffd617';
       }
       // If exited current year.
       else if (europeanUnion[country].exit_year === this.state.year && (europeanUnion[country].exit_month === 'January' || europeanUnion[country].exit_month === this.state.months.split('–')[0])) {
@@ -116,7 +117,7 @@ class App extends Component {
       }
       // If entered before.
       else if (europeanUnion[country].enter_year < this.state.year) {
-        return '#bbb';
+        return '#ffd617';
       }
       // If exited before.
       else if (europeanUnion[country].exit_year > this.state.year) {
