@@ -1,4 +1,4 @@
-@import url(https://fonts.googleapis.com/css?family=Roboto:300,400,500.css);
+@import url(https://fonts.googleapis.com/css?family=Roboto:700.css);
 body {
   margin: auto auto;
   padding: 0;
@@ -13,7 +13,7 @@ body {
 .app___2khK2 h3 {
   font-family: 'Roboto';
   font-size: 36px;
-  font-weight: 600;
+  font-weight: 700;
   margin: auto auto 10px auto;
 }
 .app___2khK2 .meta_container___3p0xG {
