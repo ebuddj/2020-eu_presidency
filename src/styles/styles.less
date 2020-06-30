@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:300,400,500.css');
+
+body {
+  margin:auto auto;
+  padding:0;
+}
+
+.app {
+  margin: auto auto;
+  max-width: 700px;
+  overflow: hidden;
+  position: relative;
+  h3 {
+    font-family: 'Roboto';
+    font-size: 36px;
+    font-weight: 600;
+    margin: auto auto 10px auto;
+  }
+
+  .meta_container {
+    position: absolute;
+    text-align: center;
+    width: 100%;
+    margin-top: 10px;
+    .year_month,
+    .country_name {
+      display: inline-block;
+      margin: 0 20px;
+    }
+  }
+  // Map.
+  .map_container {
+    margin: auto auto;
+    svg {
+      display: block;
+      margin: auto auto;
+      .path {
+        stroke-width: 0.5px;
+        stroke: #999;
+        transition: fill 0.2s linear;
+      }
+    }
+  }
+
+  // Line chart
+  .line_chart_container {
+    margin: auto auto;
+  }
+}
+
+@import 'basics.less';
