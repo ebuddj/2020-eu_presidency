@@ -17,15 +17,24 @@ body {
   margin: auto auto 10px auto;
 }
 .app___2khK2 .meta_container___3p0xG {
+  margin-top: 10px;
   position: absolute;
   text-align: center;
   width: 100%;
-  margin-top: 10px;
 }
 .app___2khK2 .meta_container___3p0xG .year_month___1FWCD,
 .app___2khK2 .meta_container___3p0xG .country_name___1ovzB {
+  box-sizing: border-box;
   display: inline-block;
   margin: 0 20px;
+}
+.app___2khK2 .meta_container___3p0xG .country_name___1ovzB {
+  text-align: right;
+  width: 270px;
+}
+.app___2khK2 .meta_container___3p0xG .year_month___1FWCD {
+  text-align: left;
+  width: 350px;
 }
 .app___2khK2 .map_container___22zRx {
   margin: auto auto;
