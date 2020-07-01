@@ -34,7 +34,7 @@ The presidency has two main tasks:
 * [The 27 member countries of the EU](https://europa.eu/european-union/about-eu/countries_en)
 
 **EBU links**
-* []()
+* [Social Newswire](https://www.evnsocialnewswire.ch/europe/eu-germany-receives-eu-presidency-from-croatia-data-visualisation-shows-presidencies-from-last-decade-animation/)
 
 **Used by**
 * []()
