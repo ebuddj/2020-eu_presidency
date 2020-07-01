@@ -10,6 +10,8 @@ The animation shows which country has had the EU presidency between 1990 and 202
 
 At each point of time countries in yellow present the countries part of the EU and the country holding EU presidency is marked in blue. 
 
+You can use the codebase or record the animation from the live demo. You can make an edit showing when your representative country was holding the presidency the last time. The animation also should work well when published of social media.
+
 The map shows the current borders for the countries. For example former state of Yugoslavia is therefore shows as separate countries already in 1990.
 
 The presidency of the Council rotates among the EU member states every 6 months. During this 6-month period, the presidency chairs meetings at every level in the Council, helping to ensure the continuity of the EU's work in the Council.
