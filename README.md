@@ -35,6 +35,7 @@ The presidency has two main tasks:
 
 **EBU links**
 * [Social Newswire](https://www.evnsocialnewswire.ch/europe/eu-germany-receives-eu-presidency-from-croatia-data-visualisation-shows-presidencies-from-last-decade-animation/)
+* [News Exchange](https://news-exchange.ebu.ch/item_detail/c769be7808af3d775841e43330c3e390/2020_21029963)
 
 **Used by**
 * []()
