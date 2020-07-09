@@ -2,7 +2,7 @@
 
 **Live demo** https://ebuddj.github.io/2020-eu_presidency/
 
-## EU Presidency
+## EU Presidency (EBU)
 
 Germany will get receive the presidency on 1st July 2020 from Croatia.
 
